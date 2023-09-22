@@ -1,4 +1,4 @@
-# NFTPICTURES
+# NFT PICTURE
 - 0xzayn (1).jpg
 - 0xzayn (2).jpg
 - 0xzayn (3).jpg
